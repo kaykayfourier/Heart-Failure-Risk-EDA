@@ -35,13 +35,6 @@ The notebook is designed to be easy to follow, even for readers who are new to E
 
 ---
 
-## 🌐 **View the Rendered Notebook (GitHub Pages)**
-
-Access the fully rendered notebook here:  
-(https://kaykayfourier.github.io/Heart-Failure-Risk-EDA/)
-Notebook Viewer render:
-https://nbviewer.org/github/kaykayfourier/Heart-Failure-Risk-EDA/blob/main/Heart_EDA.ipynb
----
 
 ## **Technologies and Libraries**
 
