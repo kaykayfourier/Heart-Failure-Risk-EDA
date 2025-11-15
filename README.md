@@ -60,6 +60,14 @@ Some of the notable observations include:
 All insights are supported by visualizations and statistical summaries.
 
 ---
+## View the Notebook here:
+https://kaykayfourier.github.io/Heart-Failure-Risk-EDA/
+
+NBViewer:
+https://nbviewer.org/github/kaykayfourier/Heart-Failure-Risk-EDA/blob/main/Heart_EDA.ipynb
+
+
+---
 
 ##  **Planned Extensions**
 
