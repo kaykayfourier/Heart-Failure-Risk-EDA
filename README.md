@@ -30,7 +30,7 @@ The notebook is designed to be easy to follow, even for readers who are new to E
 |------|-------------|
 | `Heart_EDA.ipynb` | Complete Jupyter Notebook with code, visualizations, and commentary. |
 | `heart.csv` | Dataset used in the analysis. |
-| `docs/index.html` or `docs/heart_eda.html` | Rendered HTML version of the notebook for viewing online. |
+|  `docs/heart_eda.html` | Rendered HTML version of the notebook for viewing online. |
 | `README.md` | Project documentation (this file). |
 
 ---
